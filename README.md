@@ -1,2 +1,2 @@
-# league-obs-utils
-League of Legends Utils for OBS
+# League Snip
+Utilies for League of Legends streamers

@@ -1,0 +1,30 @@
+{
+  "name": "league-snip",
+  "version": "1.0.0",
+  "description": "League of Legends Utils for OBS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrofracassi/league-snip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrofracassi/league-snip/issues"
+  },
+  "homepage": "https://github.com/pedrofracassi/league-snip#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "lcu-connector": "^2.1.3",
+    "node-fetch": "^2.6.0",
+    "obs-websocket-js": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "pkg": "^4.4.7",
+    "standard": "^14.3.3"
+  }
+}
